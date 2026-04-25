@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-sherjinag-blue?style=flat&logo=github)](https://github.com/sherjinag)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sherjinag-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sherjinag)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=flat&logo=web)](https://ais-pre-gnwkygfviu6ww5hg5dl5yh-814944146298.asia-southeast1.run.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=flat&logo=web)](https://sherjinag.github.io/Sherjin-A-G-Portfolio/)
 </div>
 
 ---
