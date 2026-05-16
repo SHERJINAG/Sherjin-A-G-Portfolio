@@ -357,6 +357,13 @@ const PROJECTS = [
     github: 'https://github.com/SHERJINAG/Student-Attendence-Tracker',
     live: 'https://student-attendence-tracker-2gfe.onrender.com/',
   },
+  {
+  title: 'Intelligent Logistics & Supply Chain Analytics Dashboard',
+  desc: 'Enterprise-level logistics analytics dashboard built using Power BI, Power Query, and DAX for delivery performance, route optimization, fuel efficiency, and financial analytics.',
+  tags: ['Power BI', 'DAX', 'Power Query', 'Analytics'],
+  github: 'https://github.com/SHERJINAG/Intelligent-logistics-dashboard',
+  live: 'https://github.com/SHERJINAG/Intelligent-logistics-dashboard',
+},
 ];
 
 const EDUCATION = [
