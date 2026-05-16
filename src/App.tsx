@@ -302,7 +302,7 @@ const SectionHeading = ({ children, icon: Icon }: { children: React.ReactNode; i
 const SKILLS = [
   { category: 'Web Dev', icon: Layout, skills: ['React', 'Next.js', 'JavaScript', 'Tailwind', 'Node.js', 'Express', 'Vite','Bootstrap','Django','FastAPI','flask'], color: 'from-cyan-500 to-blue-500' },
   { category: 'AI / ML', icon: Cpu, skills: [ 'TensorFlow', 'NLP', 'Computer Vision', 'Deep Learning', 'Data Science'], color: 'from-purple-500 to-pink-500' },
-  { category: 'Languages', icon: Code2, skills: ['Java', 'Python', 'SQL', 'C', ], color: 'from-orange-500 to-yellow-500' },
+  { category: 'Languages', icon: Code2, skills: ['Java', 'Python', 'SQL', 'C','C#' ], color: 'from-orange-500 to-yellow-500' },
   { category: 'Databases', icon: Database, skills: [ 'MongoDB', 'Firebase','MySQL', 'SQLite'], color: 'from-green-500 to-emerald-500' },
   { category: 'Tools', icon: Wrench, skills: ['Git', 'Docker', 'Power BI', 'Excel', 'VS Code', 'Postman','GitHub'], color: 'from-red-500 to-rose-500' },
 ];
