@@ -323,6 +323,20 @@ const PROJECTS = [
     live: 'https://ai-powered-interview-preparation-platform-tand.onrender.com/',
   },
   {
+  title: 'AI News Channel & Sports Analysis Platform',
+  desc: 'A fully interactive AI-powered news broadcasting platform featuring real-time news reading, multi-agent debates, and comprehensive sports preview & review coverage for football and cricket. Built with a cinematic 3D newsroom using Three.js, intelligent content generation with Gemini AI, and live sports analytics for match predictions, post-match breakdowns, player insights, and expert panel discussions.',
+  tags: [
+    'Next.js',
+    'TypeScript',
+    'Three.js',
+    'FastAPI',
+    'Gemini AI',
+    'Tailwind CSS'
+  ],
+  github: 'https://github.com/SHERJINAG/Debate-',
+  live: 'https://debate-system-kqzr.onrender.com',
+},
+  {
     title: 'Student Learning Platform',
     desc: 'Centralized hub for course materials, assignments, and student collaboration.',
     tags: ['Web', 'Node.js', 'React'],
